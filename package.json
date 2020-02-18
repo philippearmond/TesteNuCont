@@ -1,0 +1,11 @@
+{
+  "name": "teste-tecnico",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "app": "node ./index.js"
+  },
+  "author": "Philippe Armond de Britto",
+  "license": "ISC"
+}
